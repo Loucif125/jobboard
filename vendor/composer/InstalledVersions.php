@@ -25,16 +25,25 @@ class InstalledVersions
 private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => 'v5.3.99',
-    'version' => '5.3.99.0',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
-    'name' => 'symfony/website-skeleton',
+    'reference' => '48ad04b1bb8fad29c057ff908f295eead4072568',
+    'name' => '__root__',
   ),
   'versions' => 
   array (
+    '__root__' => 
+    array (
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '48ad04b1bb8fad29c057ff908f295eead4072568',
+    ),
     'composer/package-versions-deprecated' => 
     array (
       'pretty_version' => '1.11.99.2',
@@ -466,8 +475,8 @@ private static $installed = array (
     array (
       'provided' => 
       array (
-        0 => '1.0|2.0',
-        1 => '1.0.0',
+        0 => '1.0.0',
+        1 => '1.0|2.0',
       ),
     ),
     'psr/simple-cache-implementation' => 
@@ -1298,15 +1307,6 @@ private static $installed = array (
       ),
       'reference' => '95fb24b09551688a09cffac95a2ddbb907833f07',
     ),
-    'symfony/website-skeleton' => 
-    array (
-      'pretty_version' => 'v5.3.99',
-      'version' => '5.3.99.0',
-      'aliases' => 
-      array (
-      ),
-      'reference' => NULL,
-    ),
     'symfony/yaml' => 
     array (
       'pretty_version' => 'v5.3.6',
@@ -1315,6 +1315,15 @@ private static $installed = array (
       array (
       ),
       'reference' => '4500fe63dc9c6ffc32d3b1cb0448c329f9c814b7',
+    ),
+    'symfonycasts/reset-password-bundle' => 
+    array (
+      'pretty_version' => 'v1.9.1',
+      'version' => '1.9.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '775e847613737f55cf06c6a7457f4bcf8ce258e5',
     ),
     'theseer/tokenizer' => 
     array (
