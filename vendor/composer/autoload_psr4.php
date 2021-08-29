@@ -92,6 +92,8 @@ return array(
     'PackageVersions\\' => array($vendorDir . '/composer/package-versions-deprecated/src/PackageVersions'),
     'Monolog\\' => array($vendorDir . '/monolog/monolog/src/Monolog'),
     'Laminas\\Code\\' => array($vendorDir . '/laminas/laminas-code/src'),
+    'Knp\\Snappy\\' => array($vendorDir . '/knplabs/knp-snappy/src/Knp/Snappy'),
+    'Knp\\Bundle\\SnappyBundle\\' => array($vendorDir . '/knplabs/knp-snappy-bundle/src'),
     'Egulias\\EmailValidator\\' => array($vendorDir . '/egulias/email-validator/src'),
     'Doctrine\\SqlFormatter\\' => array($vendorDir . '/doctrine/sql-formatter/src'),
     'Doctrine\\Persistence\\' => array($vendorDir . '/doctrine/persistence/lib/Doctrine/Persistence'),
