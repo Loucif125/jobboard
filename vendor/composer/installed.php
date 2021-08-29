@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '87236d0f22fe322953b6fc72b0fcd1e118d3298a',
+    'reference' => '618a5d67690e6e799b174e9dd41a8fec7e44e2b9',
     'name' => '__root__',
   ),
   'versions' => 
@@ -18,7 +18,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '87236d0f22fe322953b6fc72b0fcd1e118d3298a',
+      'reference' => '618a5d67690e6e799b174e9dd41a8fec7e44e2b9',
     ),
     'composer/package-versions-deprecated' => 
     array (
@@ -190,6 +190,24 @@
       array (
       ),
       'reference' => '006aa5d32f887a4db4353b13b5b5095613e0611f',
+    ),
+    'knplabs/knp-snappy' => 
+    array (
+      'pretty_version' => 'v1.2.1',
+      'version' => '1.2.1.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '7bac60fb729147b7ccd8532c07df3f52a4afa8a4',
+    ),
+    'knplabs/knp-snappy-bundle' => 
+    array (
+      'pretty_version' => 'v1.8.0',
+      'version' => '1.8.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '0f81887b0379a2731b869289bf3d880f34dfd423',
     ),
     'laminas/laminas-code' => 
     array (
