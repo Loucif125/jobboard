@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '618a5d67690e6e799b174e9dd41a8fec7e44e2b9',
+    'reference' => '939f02a606256a42bc85038d26962d367f929645',
     'name' => '__root__',
   ),
   'versions' => 
@@ -18,7 +18,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '618a5d67690e6e799b174e9dd41a8fec7e44e2b9',
+      'reference' => '939f02a606256a42bc85038d26962d367f929645',
     ),
     'composer/package-versions-deprecated' => 
     array (
@@ -190,6 +190,24 @@
       array (
       ),
       'reference' => '006aa5d32f887a4db4353b13b5b5095613e0611f',
+    ),
+    'knplabs/knp-components' => 
+    array (
+      'pretty_version' => 'v3.1.0',
+      'version' => '3.1.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'f06a6ebea71a91c8cd34213f9417004062133627',
+    ),
+    'knplabs/knp-paginator-bundle' => 
+    array (
+      'pretty_version' => 'v5.6.0',
+      'version' => '5.6.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => 'a11cd180826e9475e1079b3b64c27a1c33c48917',
     ),
     'knplabs/knp-snappy' => 
     array (
