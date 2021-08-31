@@ -30,7 +30,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => '5d175547e45792d0fb3afa26d77eee7d224313eb',
+    'reference' => 'e026a90b8277ddc170897144b2d356a44a6781b7',
     'name' => '__root__',
   ),
   'versions' => 
@@ -42,7 +42,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => '5d175547e45792d0fb3afa26d77eee7d224313eb',
+      'reference' => 'e026a90b8277ddc170897144b2d356a44a6781b7',
     ),
     'composer/package-versions-deprecated' => 
     array (
@@ -1004,12 +1004,12 @@ private static $installed = array (
     ),
     'symfony/password-hasher' => 
     array (
-      'pretty_version' => 'v5.3.4',
-      'version' => '5.3.4.0',
+      'pretty_version' => 'v5.3.7',
+      'version' => '5.3.7.0',
       'aliases' => 
       array (
       ),
-      'reference' => '61dd1e90fa0ebf6f4982787b1e033a9606357d7e',
+      'reference' => '106639b209d0f8b0946394a1108acc9cc20e2216',
     ),
     'symfony/phpunit-bridge' => 
     array (
