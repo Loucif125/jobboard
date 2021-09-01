@@ -30,7 +30,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'e026a90b8277ddc170897144b2d356a44a6781b7',
+    'reference' => 'e97d0a6eb6b48454c6602b178e3492198a3224f4',
     'name' => '__root__',
   ),
   'versions' => 
@@ -42,7 +42,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'e026a90b8277ddc170897144b2d356a44a6781b7',
+      'reference' => 'e97d0a6eb6b48454c6602b178e3492198a3224f4',
     ),
     'composer/package-versions-deprecated' => 
     array (
@@ -1257,12 +1257,12 @@ private static $installed = array (
     ),
     'symfony/translation' => 
     array (
-      'pretty_version' => 'v5.3.4',
-      'version' => '5.3.4.0',
+      'pretty_version' => 'v5.3.7',
+      'version' => '5.3.7.0',
       'aliases' => 
       array (
       ),
-      'reference' => 'd89ad7292932c2699cbe4af98d72c5c6bbc504c1',
+      'reference' => '4d595a6d15fd3a2c67f6f31d14d15d3b7356d7a6',
     ),
     'symfony/translation-contracts' => 
     array (
