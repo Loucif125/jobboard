@@ -30,7 +30,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'e97d0a6eb6b48454c6602b178e3492198a3224f4',
+    'reference' => 'a56bb7e535af59ea5e1bc95eada23b85f86ffb45',
     'name' => '__root__',
   ),
   'versions' => 
@@ -42,7 +42,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'e97d0a6eb6b48454c6602b178e3492198a3224f4',
+      'reference' => 'a56bb7e535af59ea5e1bc95eada23b85f86ffb45',
     ),
     'composer/package-versions-deprecated' => 
     array (
@@ -1342,6 +1342,15 @@ private static $installed = array (
       array (
       ),
       'reference' => '95fb24b09551688a09cffac95a2ddbb907833f07',
+    ),
+    'symfony/webpack-encore-bundle' => 
+    array (
+      'pretty_version' => 'v1.12.0',
+      'version' => '1.12.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '9943a59f8551b7a8181e19a2b4efa60e5907c667',
     ),
     'symfony/yaml' => 
     array (
