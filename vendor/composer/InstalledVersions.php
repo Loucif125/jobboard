@@ -30,7 +30,7 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'a56bb7e535af59ea5e1bc95eada23b85f86ffb45',
+    'reference' => '715d6c71295c3e6dc36ef4b77b91024f1ace6c5f',
     'name' => '__root__',
   ),
   'versions' => 
@@ -42,7 +42,7 @@ private static $installed = array (
       'aliases' => 
       array (
       ),
-      'reference' => 'a56bb7e535af59ea5e1bc95eada23b85f86ffb45',
+      'reference' => '715d6c71295c3e6dc36ef4b77b91024f1ace6c5f',
     ),
     'composer/package-versions-deprecated' => 
     array (
@@ -871,12 +871,12 @@ private static $installed = array (
     ),
     'symfony/form' => 
     array (
-      'pretty_version' => 'v5.3.4',
-      'version' => '5.3.4.0',
+      'pretty_version' => 'v5.3.11',
+      'version' => '5.3.11.0',
       'aliases' => 
       array (
       ),
-      'reference' => '7d3ece4f98a1d4f7fea4331982ff210dd08bb2f9',
+      'reference' => 'a5dbc8238db2b56057b293920c4b67879b50566b',
     ),
     'symfony/framework-bundle' => 
     array (
